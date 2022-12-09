@@ -1,7 +1,7 @@
 # Personal Portfolio
 
-![img](https://user-images.githubusercontent.com/18350557/176930938-fc5fab09-c45c-4c4c-a85a-0a3cdd9a4e81.png)
+![img](<img width="1392" alt="image" src="https://user-images.githubusercontent.com/30631105/206681104-b8c77646-300f-4d1f-8ffc-6c931b5eaff8.png">)
 
-[View Live](https://paytonpierce.dev/)
+[View Live](https://shaik-dev-1d03e.web.app/)
 
 My personal website, where I display my projects & proficiencies. 
