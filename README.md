@@ -1,12 +1,7 @@
-# shaik
-Hi 👋 My name is Shaik Sandhani
-Front-End Developer @ Mathison Projects
-🌍  I'm based in Appleton, WI
-🖥️  See my portfolio at shaik.dev
-✉️  You can contact me at sandhanifullstack@gmail.com
-🧠  I'm learning AWS
-Skills
-JavaScript HTML5 React NextJs Sass CSS3 Bootstrap Material UI
+# Personal Portfolio
 
-Socials
-  
+![img](https://user-images.githubusercontent.com/18350557/176930938-fc5fab09-c45c-4c4c-a85a-0a3cdd9a4e81.png)
+
+[View Live](https://paytonpierce.dev/)
+
+My personal website, where I display my projects & proficiencies. 
